@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋. Mosix</h1>
-<h3 align="center">🔭 C++ developer from Switzerland</h3>
+<h3 align="center">🔭 C++ and Python developper , i love internetd</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosixs&label=Profile%20views&color=0e75b6&style=flat" alt="mosixs" /> </p>
 
