@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋. Mosix</h1>
-<h3 align="center">🔭 C++ and Python developper , i love learning</h3>
+<h3 align="center">🔭 C with classes developper :)</h3>
 <h2 align="center">📚 Learning all the days</h2>
 
 <p align="left"> <a href="https://twitter.com/mosix_cpp" target="blank"><img src="https://img.shields.io/twitter/follow/mosix_cpp?logo=twitter&style=for-the-badge" alt="mosix_cpp" /></a> </p>
