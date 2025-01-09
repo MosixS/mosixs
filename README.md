@@ -1,44 +1,12 @@
-# Hi there, I'm MosixS! 👋
+<h1 align="center">Hi 👋, Mosix</h1>
+<h3 align="center">i like low level and gaming :=)</h3>
 
-Welcome to my GitHub profile! I'm a passionate software developer who loves diving deep into low-level programming. Here's a bit about me:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mosix_cpp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mosix_cpp" height="30" width="40" /></a>
+<a href="https://discord.gg/m.o.s.i.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="m.o.s.i.x" height="30" width="40" /></a>
+</p>
 
-## 🚀 About Me
-
-- 💻 I have a strong interest in **Linux**, **C++**, **C**, and **Python**.
-- 🛠️ I enjoy working on low-level programming and exploring the intricacies of system software.
-- 🌱 I’m always eager to learn new technologies and improve my skills.
-- 👯 I’m looking to collaborate on challenging projects that involve low-level programming.
-- 📫 How to reach me: [Your Email](mailto:your-email@example.com)
-
-## 📈 GitHub Stats
-
-![MosixS's GitHub stats](https://github-readme-stats.vercel.app/api?username=MosixS&show_icons=true&theme=radical)
-
-## 🛠️ Technologies & Tools
-
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-## 🔧 Projects
-
-Here are some of my projects:
-
-- **[Kernel Module](https://github.com/MosixS/kernel-module)**: A custom Linux kernel module demonstrating low-level system programming.
-- **[Embedded System](https://github.com/MosixS/embedded-system)**: An embedded system project showcasing C and C++ skills.
-- **[Python Automation](https://github.com/MosixS/python-automation)**: A Python project for automating various tasks on Linux.
-
-## 📚 Blog Posts
-
-- [Understanding C++ Memory Management](https://your-blog.com/cpp-memory-management)
-- [Getting Started with Linux Kernel Development](https://your-blog.com/linux-kernel-development)
-- [Python for System Administrators](https://your-blog.com/python-sysadmin)
-
-## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-- [Twitter](https://twitter.com/your-twitter)
-- [Personal Blog](https://your-blog.com)
-
-Thank you for visiting my profile! Have a great day! 😊
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://google.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="c" width="40" height="40"/> </a> </p>
