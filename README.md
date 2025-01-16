@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Mosix</h1>
-<h3 align="center">i like low level and gaming</h3>
+<h3 align="center"></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
